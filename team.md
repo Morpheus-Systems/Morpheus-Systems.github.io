@@ -7,6 +7,10 @@ title: "Morpheus Systems - Team"
 
 The current directors of Morpheus Inc are:
 
-* Michael Vassar, a previous director of SIAI (Singularity Institute for Artificial Intelligence), and a thinker in the AI and AI alignment space.
-* Jessica Taylor, who has researched AI at Stanford and and AI alignment at MIRI (Machine Intelligence Research Institute, an organization derived from SIAI), and has a background in mathematics and computer science.
+* Michael Vassar (CEO), a previous director of SIAI (Singularity Institute for Artificial Intelligence), and a thinker in AI and AI alignment.
+* Jessica Taylor (CIO), who has researched AI at Stanford and and AI alignment at MIRI (Machine Intelligence Research Institute, an organization derived from SIAI), and has a background in mathematics and computer science.
 * Evan McMullen, who has a background in computer science and software development.
+
+Other employees include:
+
+* Vie McCoy (CTO), who has a background in cognitive science and machine learning.
